@@ -1,9 +1,8 @@
-name: Build
+name: Build & Release
 
 on:
-  push:
-    branches:
-      - "**"
+  release:
+    types: [created]
 
 jobs:
   build:
@@ -27,8 +26,12 @@ jobs:
       - name: Build
         run: pnpm build
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: Package extension as zip
+        run: |
+          cd build/chrome-mv3-prod
+          zip -r ../../note-limited-finder-${{ github.event.release.tag_name }}.zip .
+
+      - name: Upload to release
+        uses: softprops/action-gh-release@v2
         with:
-          name: extension-${{ github.sha }}
-          path: build/chrome-mv3-prod/
+          files: note-limited-finder-${{ github.event.release.tag_name }}.zip

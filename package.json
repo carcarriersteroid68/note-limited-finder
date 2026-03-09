@@ -1,8 +1,8 @@
 {
-  "name": "xhs-limited-finder",
-  "displayName": "Xhs limited finder",
+  "name": "note-limited-finder",
+  "displayName": "Note limited finder",
   "version": "0.0.1",
-  "description": "笔记限流检测",
+  "description": "📒笔记限流检测",
   "author": "Plasmo Corp. <foss@plasmo.com>",
   "scripts": {
     "dev": "plasmo dev",
