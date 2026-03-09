@@ -8,6 +8,12 @@
 
 开启 `Developer mode`, 然后加载解压目录
 
+## 功能
+
+进入管理后台-笔记管理页面，会在每条笔记标题后显示限流级别
+
+![](./ScreenShot.png)
+
 ## 开发
 
 基于 Plasmo 浏览器插件开发框架，支持 typescript
