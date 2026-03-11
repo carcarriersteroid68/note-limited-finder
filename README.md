@@ -1,5 +1,7 @@
 # 📒 限流检测器
 
+【更新】笔记 Level 数据已被官方屏蔽，插件也无能为力
+
 ## 安装
 
 进入 [releases](https://github.com/Ceelog/note-limited-finder/releases) 下载插件 zip 安装包，在本机解压缩
